@@ -1,3 +1,3 @@
-# Greg Bergé personal website
+# Srikanth Voruganti's personal website
 
-[👉 Check it out](https://gregberge.com/)
+Under Development.
